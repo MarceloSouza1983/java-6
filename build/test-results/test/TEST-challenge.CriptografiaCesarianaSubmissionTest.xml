@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="challenge.CriptografiaCesarianaSubmissionTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-04-21T14:04:28" hostname="marcelodell3583" time="0.014">
+  <properties/>
+  <testcase name="deveRetornarErroQuandoCriptografaTextoEhNulo" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.003"/>
+  <testcase name="deveConverterCaracteresParaMinusculoNaDescriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.005"/>
+  <testcase name="deveManterOsNumerosNaCriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveConverterCaracteresParaMinusculoNaCriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.001"/>
+  <testcase name="deveManterOsNumerosNaDescriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveRetornarErroQuandoDesCriptografaTextoEhNulo" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveRetornarErroQuandoODesCriptografaTextoEhVazio" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveCriptografarTexto" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.001"/>
+  <testcase name="deveRetornarErroQuandoOCriptografaTextoEhVazio" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveDescriptografarTexto" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.001"/>
+  <system-out><![CDATA[Método descriptografar (texto) = dsuhqghu mdyd jhud iholflgdgh
+Método descriptografar (texto) = aprender java gera felicidade
+
+Método criptografar (texto) = sejam bem vindos ao acelera brasil 2019
+Método criptografar (texto) = vhmdp ehp ylqgrv dr dfhohud eudvlo 2019
+
+Método criptografar (texto) = aprender java gera felicidade
+Método criptografar (texto) = dsuhqghu mdyd jhud iholflgdgh
+
+Método descriptografar (texto) = vhmdp ehp ylqgrv dr dfhohud eudvlo 2019
+Método descriptografar (texto) = sejam bem vindos ao acelera brasil 2019
+
+Método criptografar (texto) = a ligeira raposa marrom saltou sobre o cachorro cansado
+Método criptografar (texto) = d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr
+
+Método descriptografar (texto) = d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr
+Método descriptografar (texto) = a ligeira raposa marrom saltou sobre o cachorro cansado
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
